@@ -5,5 +5,7 @@ in a smooth sine curve like manner.
 
 # Demo
 
+Soon
+
 # Releases
 https://github.com/TheBusyBiscuit/Unity-SmoothSineMovements/releases
