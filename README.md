@@ -9,5 +9,5 @@ in a smooth sine curve like manner.
 
 Soon
 
-# Releases
+# Downloads (Releases)
 https://github.com/TheBusyBiscuit/Unity-SmoothSineMovements/releases
